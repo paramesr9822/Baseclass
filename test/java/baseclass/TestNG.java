@@ -48,5 +48,6 @@ public class TestNG {
 	@Test
 	private void tc5() {
 	System.out.println("tc5");
+	System.out.println("success");
 }
 }	

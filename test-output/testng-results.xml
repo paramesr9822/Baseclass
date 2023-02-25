@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="6" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="51" started-at="2022-10-26T14:37:27Z" finished-at="2022-10-26T14:37:27Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="51" started-at="2022-10-26T14:37:27Z" finished-at="2022-10-26T14:37:27Z">
+      <class name="baseclass.TestNG">
+        <test-method status="PASS" signature="beforeclass()[pri:0, instance:baseclass.TestNG@5383967b]" name="beforeclass" is-config="true" duration-ms="10" started-at="2022-10-26T14:37:27Z" finished-at="2022-10-26T14:37:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:baseclass.TestNG@5383967b]" name="beforemethod" is-config="true" duration-ms="9" started-at="2022-10-26T14:37:27Z" finished-at="2022-10-26T14:37:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="tc4()[pri:-1, instance:baseclass.TestNG@5383967b]" name="tc4" duration-ms="3" started-at="2022-10-26T14:37:27Z" finished-at="2022-10-26T14:37:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc4 -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:baseclass.TestNG@5383967b]" name="aftermethod" is-config="true" duration-ms="0" started-at="2022-10-26T14:37:27Z" finished-at="2022-10-26T14:37:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:baseclass.TestNG@5383967b]" name="beforemethod" is-config="true" duration-ms="1" started-at="2022-10-26T14:37:27Z" finished-at="2022-10-26T14:37:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="tc4()[pri:-1, instance:baseclass.TestNG@5383967b]" name="tc4" duration-ms="1" started-at="2022-10-26T14:37:27Z" finished-at="2022-10-26T14:37:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc4 -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:baseclass.TestNG@5383967b]" name="aftermethod" is-config="true" duration-ms="0" started-at="2022-10-26T14:37:27Z" finished-at="2022-10-26T14:37:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:baseclass.TestNG@5383967b]" name="beforemethod" is-config="true" duration-ms="1" started-at="2022-10-26T14:37:27Z" finished-at="2022-10-26T14:37:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="tc5()[pri:0, instance:baseclass.TestNG@5383967b]" name="tc5" duration-ms="0" started-at="2022-10-26T14:37:27Z" finished-at="2022-10-26T14:37:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc5 -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:baseclass.TestNG@5383967b]" name="aftermethod" is-config="true" duration-ms="0" started-at="2022-10-26T14:37:27Z" finished-at="2022-10-26T14:37:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:baseclass.TestNG@5383967b]" name="beforemethod" is-config="true" duration-ms="0" started-at="2022-10-26T14:37:27Z" finished-at="2022-10-26T14:37:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="tc1()[pri:2, instance:baseclass.TestNG@5383967b]" name="tc1" duration-ms="1" started-at="2022-10-26T14:37:27Z" finished-at="2022-10-26T14:37:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:baseclass.TestNG@5383967b]" name="aftermethod" is-config="true" duration-ms="0" started-at="2022-10-26T14:37:27Z" finished-at="2022-10-26T14:37:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="afterclass()[pri:0, instance:baseclass.TestNG@5383967b]" name="afterclass" is-config="true" duration-ms="0" started-at="2022-10-26T14:37:27Z" finished-at="2022-10-26T14:37:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+      </class> <!-- baseclass.TestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
